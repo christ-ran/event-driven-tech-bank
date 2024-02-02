@@ -36,3 +36,9 @@ $ docker-compose -f docker-compose.yaml
 ```
 
 Open the project with IntelliJ and run as usual
+
+## Stack
+
+- Backend framework: Spring Boot.
+- Database: MySQL, MongoDB.
+- Kafka for streaming.
